@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Demandado
+comment1.params=nombre\ ci\ direccion\ telefono
+comment1.target=Demandado(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=nuevaDireccion
+comment2.target=void\ actualizarDireccion(java.lang.String)
+comment3.params=nuevoTelefono
+comment3.target=void\ actualizarTelefono(java.lang.String)
+comment4.params=
+comment4.target=boolean\ datosCompletos()
+comment5.params=
+comment5.target=void\ mostrarResumen()
+numComments=6

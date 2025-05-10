@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=ReceptorJudicial
+comment1.params=nombre\ cargo\ juzgado
+comment1.target=ReceptorJudicial(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getCorreoInstitucional()
+comment3.params=
+comment3.target=java.lang.String\ getCargo()
+comment4.params=
+comment4.target=java.lang.String\ getJuzgado()
+comment5.params=nuevoJuzgado
+comment5.target=void\ actualizarJuzgado(java.lang.String)
+comment6.params=
+comment6.target=void\ mostrarResumen()
+comment7.params=demanda
+comment7.target=void\ recibirDemanda(Demanda)
+numComments=8

@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=RegistroHistorial
+comment1.params=demanda
+comment1.target=void\ actualizar(Demanda)
+numComments=2

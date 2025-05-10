@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=RegistroCompletoPorFormulario
+comment1.params=
+comment1.target=void\ crearDemandante()
+comment2.params=
+comment2.target=void\ crearDemandado()
+comment3.params=
+comment3.target=void\ crearFuncionario()
+comment4.params=
+comment4.target=void\ construirDemanda()
+comment5.params=
+comment5.target=void\ registrarDemanda()
+comment6.params=
+comment6.target=void\ mostrarResumen()
+numComments=7

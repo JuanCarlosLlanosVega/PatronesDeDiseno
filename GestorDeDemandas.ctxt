@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=GestorDeDemandas
+comment1.params=tipo\ fecha\ nombreDemandante\ ciDemandante\ direccionDemandante\ telefonoDemandante\ correoDemandante\ nombreDemandado\ ciDemandado\ direccionDemandado\ telefonoDemandado\ nombreFuncionario\ cargoFuncionario\ juzgadoFuncionario
+comment1.target=void\ registrarDemandaCompleta(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+numComments=2

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=IPersona
+comment1.params=
+comment1.target=java.lang.String\ getNombre()
+comment2.params=
+comment2.target=java.lang.String\ getCi()
+comment3.params=
+comment3.target=java.lang.String\ getDireccion()
+comment4.params=
+comment4.target=void\ mostrarInformacion()
+numComments=5

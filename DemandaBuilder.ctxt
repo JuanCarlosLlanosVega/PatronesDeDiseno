@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=DemandaBuilder
+comment1.params=tipo
+comment1.target=DemandaBuilder\ setTipo(java.lang.String)
+comment2.params=fecha
+comment2.target=DemandaBuilder\ setFecha(java.lang.String)
+comment3.params=demandante
+comment3.target=DemandaBuilder\ setDemandante(Demandante)
+comment4.params=demandado
+comment4.target=DemandaBuilder\ setDemandado(Demandado)
+comment5.params=funcionario
+comment5.target=DemandaBuilder\ setFuncionario(ReceptorJudicial)
+comment6.params=
+comment6.target=Demanda\ build()
+numComments=7
